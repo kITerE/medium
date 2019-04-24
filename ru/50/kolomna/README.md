@@ -1,5 +1,5 @@
 # Коломенский городской округ
 
-# Point No. | Availability | Latitude  | Longitude
+| Point No. | Availability | Latitude  | Longitude
 | --------- | ------------ | --------- | ---------
 | 1         | ✓            | 55.085281 | 38.799247
