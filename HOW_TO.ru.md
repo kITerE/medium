@@ -18,3 +18,5 @@
 * Правильно указан статус в поле **Availability** (available — доступна в данный момент, unavailable — была доступна ранее, но в настоящий момент недоступна; pending — будет доступна в ближайшее время)
 * Заполнены поля **Latitude** (широта) и **Longitude** (долгота)
 * Добавлена прямая ссылка на [Google Maps](https://maps.google.com) / [Yandex Maps](https://maps.yandex.ru) / etc.
+
+Вы также можете добавить запись `medium.i2p,f26brxp77ydqc7cnjctnj75ktcgjhh3tqqvrgf4a6l25aqk3vp3a` в адресную книгу, чтобы ваши клиенты могли проверить возможность подключения к сети I2P путём посещения сайта [medium.i2p](medium.i2p).
