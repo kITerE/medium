@@ -21,6 +21,6 @@
 
 Вы также можете добавить запись `medium.i2p,f26brxp77ydqc7cnjctnj75ktcgjhh3tqqvrgf4a6l25aqk3vp3a` в адресную книгу своего I2P маршрутизатора, чтобы ваши клиенты имели возможность проверить соединение с сетью I2P путём посещения сайта [medium.i2p](http://medium.i2p).
 
-Чтобы запретить пользователям добавлять произвольные addresshelper-адреса, в настройках туннеля (http://127.0.0.1:7657/i2ptunnelmgr), в раздел custom options добавьте следующую строку: `i2ptunnel.httpclient.disableAddressHelper=true`.
+Чтобы запретить пользователям добавлять произвольные addresshelper-адреса, в настройках туннеля (http://127.0.0.1:7657/i2ptunnelmgr), в раздел `custom options` добавьте следующую строку: `i2ptunnel.httpclient.disableAddressHelper=true`.
 
 В том случае, если вы используете i2pd, добавьте `addresshelper = false` в `i2pd.conf`.
