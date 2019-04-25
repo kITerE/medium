@@ -2,7 +2,7 @@
 
 В том случае, если вы уже являетесь оператором действующей точки «Medium», вы можете создать новый [PR](https://github.com/medium-isp/medium/pulls) на добавление её в публичный список всех точек сети.
 
-[Пример оформления](https://pastebin.com/raw/41MMD4Km).
+[Пример оформления](https://pastebin.com/raw/41MMD4Km)
 
 | Point No. | Availability | Latitude  | Longitude | URL
 | --------- | ------------ | --------- | --------- | ---
