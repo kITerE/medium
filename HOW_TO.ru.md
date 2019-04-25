@@ -13,4 +13,4 @@
 * Заполнено поле **Point No.**, которое отвечает за порядковый номер точки в списке
 * Правильно указан статус в поле **Availability** (available — доступна в данный момент, unavailable — была доступна ранее, но в данный момент недоступна, pending — будет доступна в ближайшее время)
 * Заполнены поля **Latitude** (широта) и **Longitude** (долгота)
-* Добавлена прямая ссылка на Google Maps / Yandex Maps / etc.
+* Добавлена прямая ссылка на [https://maps.google.com](Google Maps) / [https://maps.yandex.ru](Yandex Maps) / etc.
