@@ -19,7 +19,7 @@
 * Заполнены поля **Latitude** (широта) и **Longitude** (долгота)
 * Добавлена прямая ссылка на [Google Maps](https://maps.google.com) / [Yandex Maps](https://maps.yandex.ru) / etc.
 
-Вы также можете добавить запись `medium.i2p,f26brxp77ydqc7cnjctnj75ktcgjhh3tqqvrgf4a6l25aqk3vp3a` в адресную книгу своего I2P маршрутизатора, чтобы ваши клиенты имели возможность проверить соединение с сетью I2P путём посещения сайта [medium.i2p](http://medium.i2p).
+Вы также можете добавить запись `medium.i2p,f26brxp77ydqc7cnjctnj75ktcgjhh3tqqvrgf4a6l25aqk3vp3a` ([addresshelper](http://medium.i2p/?i2paddresshelper=M0qaNrIGMMyK4WQmtU3D1hxfUhfaWme7ofEvB3B4Lh8tHUnSUwh57JF8FBnGm6kbrYW7zUxqxMs1VLyFIkEF6fBN9vCE4HS~G35e45-GB9O-n1wbfURAkRFYEuIOmpgNWXvbK~zRkXl2eAixDeNT2oW~VC0g385ZWLnq0MZxNKjoQBdB2zpzYNdYON7QGCQWk~l9plmtIevwQCUmlKEpgNt-qB9-MR8ckLGF0ONwnG~vZXA2-m~WcIPrUPgsmIjxO79mR9NvO0pE8qxKkrkhGIFCsFahTESrF2i2G6uuUPk5CRhz~Kc9lCJPIAsWHdjABUDUulM4EBUQPVG00ayzgvYbsxMdSI9PShK0hdvWonWtAjMwPWoZB3PW3m0l1jylPRnAYmwwQVjM6nq~XuRveEeDkgvx0Eq9cdTvP5p5doKPy3A7BN9GvJxrWe8uFcB32aU-HBCIsUQWaF7UVudeTJGcFTuMrxl00Crs2JdDANZpj59ufry57cHt8UcMFARBBQAEAAcAAA==)) в адресную книгу своего I2P маршрутизатора, чтобы ваши клиенты имели возможность проверить соединение с сетью I2P путём посещения сайта [medium.i2p](http://medium.i2p).
 
 Чтобы запретить пользователям добавлять произвольные addresshelper-адреса, в настройках туннеля (http://127.0.0.1:7657/i2ptunnelmgr), в раздел `custom options` добавьте следующую строку: `i2ptunnel.httpclient.disableAddressHelper = true`.
 
