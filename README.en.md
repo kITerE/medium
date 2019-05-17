@@ -1,7 +1,7 @@
 <img align="left" width="64" height="64" src="https://hsto.org/webt/8c/nt/ku/8cntkuotjbfc1aiirrepb4xb4o4.png">  
 <br/><br/><br/>
 
-Independent decentralized ISP for our friends.
+Independent decentralized ISP for our friends
 
 ## I am a user
 To connect to the already existing Medium node, you need to [select your city](https://github.com/medium-isp/medium/tree/master/ru) and find the operator nearest you.
