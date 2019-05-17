@@ -1,7 +1,7 @@
 <img align="left" width="64" height="64" src="https://hsto.org/webt/8c/nt/ku/8cntkuotjbfc1aiirrepb4xb4o4.png">  
 <br/><br/><br/>
 
-Независимый децентрализованный ISP для наших друзей.
+Независимый децентрализованный ISP для наших друзей
 
 ## Я — пользователь
 Чтобы подключиться к уже существующему узлу сети «Medium», вам необходимо [выбрать свой город](https://github.com/medium-isp/medium/tree/master/ru) и найти ближайшего к вам оператора.
