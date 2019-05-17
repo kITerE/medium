@@ -1,4 +1,5 @@
-# Medium
+<img align="left" width="64" height="64" src="https://hsto.org/webt/8c/nt/ku/8cntkuotjbfc1aiirrepb4xb4o4.png">  
+<br/><br/><br/>
 
 Независимый децентрализованный ISP для наших друзей.
 
