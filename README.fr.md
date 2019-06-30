@@ -1,5 +1,5 @@
-<img align="left" width="64" height="64" src="https://hsto.org/webt/8c/nt/ku/8cntkuotjbfc1aiirrepb4xb4o4.png">  
-<br/><br/><br/>
+<img align="left" src="https://i.imgur.com/M5T1BL9.png">  
+<br/>
 
 FAI décentralisé indépendant pour nos amis
 
