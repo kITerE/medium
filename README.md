@@ -1,4 +1,4 @@
-<img align="left" src="https://i.imgur.com/8VwQEsF.png">  
+<img align="left" src="https://i.imgur.com/M5T1BL9.png">  
 <br/><br/><br/>
 
 [README in English](README.en.md) • [README на русском](README.ru.md) • [README en français](README.fr.md)
