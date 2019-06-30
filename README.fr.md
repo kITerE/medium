@@ -6,7 +6,7 @@ FAI décentralisé indépendant pour nos amis
 ## Je suis un utilisateur
 Pour vous connecter au nœud de réseau existant «Medium», vous devez [sélectionner votre ville](https://github.com/medium-isp/medium/tree/master/ru) et rechercher l'opérateur le plus proche de chez vous.
 
-Pour vous connecter, vous devez créer une nouvelle connexion avec les paramètres suivants: SSID - «Moyen» (sans guillemets), type d'authentification - sans mot de passe.
+Pour vous connecter, vous devez créer une nouvelle connexion avec les paramètres suivants: SSID - «Medium» (sans guillemets), type d'authentification - sans mot de passe.
 
 Attention, le réseau "Moyen" par défaut est caché des regards indiscrets; dans la liste des réseaux disponibles, il ne sera pas affiché tant que vous ne créez pas une nouvelle connexion avec les paramètres ci-dessus.
 
