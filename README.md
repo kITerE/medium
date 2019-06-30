@@ -49,5 +49,3 @@
 Если вы уже являетесь оператором действующей точки «Medium», не забудьте создать <a href="https://github.com/medium-isp/medium/pulls">PR на GitHub</a>, чтобы добавить вашу точку в публичный список всех точек сети. <a href="https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md">Здесь</a> вы можете найти полезную информацию о том, как необходимо оформлять PR.
 <br/><br/>
 <a href="https://github.com/medium-isp/medium/tree/master/ru">Список всех точек сети</a> • <a href="hhttps://github.com/medium-isp/medium/blob/master/README.ru.md#%D1%8F--%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80">Инструкции по настройке своей AP</a> • <a href="https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md">Добавление своей точки в список</a>
-<br/><br/>
-Канал в Telegram: <a href="https://t.me/medium_isp">@medium_isp</a>
