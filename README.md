@@ -1,5 +1,5 @@
 <br/>
-<img align="left" src="https://i.imgur.com/M5T1BL9.png">  
+<img align="left" src="https://i.imgur.com/RkjJPEr.png">  
 <br/><br/>
 
 [README in English](README.en.md) • [README на русском](README.ru.md) • [README en français](README.fr.md)
