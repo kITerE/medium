@@ -1,4 +1,3 @@
-<br/>
 <img align="left" src="https://i.imgur.com/RkjJPEr.png" width="100px">
 <br/><br/><br/><br/>
 
