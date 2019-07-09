@@ -2,7 +2,7 @@
 <img align="left" src="https://i.imgur.com/RkjJPEr.png" width="100px">
 <br/><br/><br/><br/>
 
-[README in English](README.en.md) • [README на русском](README.ru.md) • [README en français](README.fr.md)
+[README in English](README.en.md) • [README на русском](README.ru.md) • [README en français](README.fr.md) • [README latviešu valodā](README.fr.md)
 
 <h2>Что это?</h2>
 Проект «Medium» изначально задумывался как <a href="https://en.wikipedia.org/wiki/Mesh_networking">Mesh-сеть</a> в <a href="https://ru.wikipedia.org/wiki/Коломенский_городской_округ">Коломенском городском округе</a>, однако спустя некоторое время сталось весьма очевидным то, что для реализации задумки недостаточно желающих принять в этом участие.
