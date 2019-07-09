@@ -1,5 +1,5 @@
-<img align="left" src="https://i.imgur.com/M5T1BL9.png">  
-<br/><br/>
+<img align="left" src="https://i.imgur.com/RkjJPEr.png" width="100px">
+<br/><br/><br/><br/>
 
 Независимый децентрализованный ISP для наших друзей
 
