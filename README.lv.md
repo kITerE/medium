@@ -1,5 +1,5 @@
-<img align="left" src="https://i.imgur.com/M5T1BL9.png">
-<br/><br/>
+<img align="left" src="https://i.imgur.com/RkjJPEr.png" width="100px">
+<br/><br/><br/><br/>
 
 Neatkarīgs decentralizēts ISP mūsu draugiem
 
@@ -10,7 +10,7 @@ Lai izveidotu savienojumu, jums jāizveido jauns savienojums ar šādiem paramet
 
 Esiet uzmanīgi: vidējais tīkls pēc noklusējuma ir paslēpts no nevēlamām acīm; pieejamo tīklu sarakstā tas netiks rādīts, kamēr nav izveidots jauns savienojums ar iepriekš minētajiem parametriem.
 
-Lai pārbaudītu tīklu, mēģiniet apmeklēt portālu [medium.i2p](http://medium.i2p) pēc pievienošanas.
+Lai pārbaudītu tīklu, mēģiniet apmeklēt portālu [medium.i2p](http://medium.i2p/?i2paddresshelper=dLJzgrK601vSbtNZGQ~R8V0ruRsdeG35gaIdH0RkXzoFioASVww8YociZfrgLsnHmKmMfA46fFv6goHkWYLMcWCDqoNc1X1bUzJwNxGHDcJJ1svKCuMGJDm5Ve~UMkdqEWofeT4tc4F14dJE48ff10jM4Y3Zc1tJCBuXKwtwa~mAdSacDlowXABP3kQ76kpMqQZ6dAithyAi53u-USvTmpK0Lc4uvZsWQL32m~qGMEiNrrlAhHZY2ttPbPUq8ig1bhEoBkN9CEYDdEgH3mw9CNmIhUrQThD9Hp~Wlsvd1x0815U-DDPqQvbwj2KgVRRt4z0uvZ-Ol0gpJwSgXfovVmuGj-PjbzFlfe-oGB-hQWEM~rTvIGdoS09nyWZtzzEQMnOwxv72fEM7HVQbMzSQ3B2UMHDWcXaY~lmQNnXcvNPMZiWA9Qt0ogUdWzDMyz1OvK5hsUPOLEYJMQ7GS272Mx3E6fqGct2EJ20IDIY8MfMVvCzYOK58lvTqeEsAz-fRBQAEAAcAAA==) pēc pievienošanas.
 
 ## Es esmu operators
 Lai palielinātu vidējā tīkla mezglu, jums ir nepieciešamas šādas lietas:
