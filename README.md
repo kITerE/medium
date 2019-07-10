@@ -17,7 +17,7 @@ Thanks to I2P, it becomes impossible to locate not only the router from which th
 
 As a nice bonus — inability to block the network and the users' access to the computing resources — in order to do it, you have to restrict the whole Internet on physical level. Turn it off and never turn it on again.
 
-From legal point of view (in accordance with <a href="www.consultant.ru/document/cons_doc_LAW_162586/">Federal law № 97-FЗ from May 5, 2014</a>), «Medium», located on territory of Russian Federation, may partially get under restrictions imposed by law. But keep following nuances in mind:
+From legal point of view (in accordance with <a href="www.consultant.ru/document/cons_doc_LAW_162586/">Federal law № 97-FZ from May 5, 2014</a>), «Medium», located on territory of Russian Federation, may partially get under restrictions imposed by law. But keep following nuances in mind:
 
 <ol><li>«Medium» is not a legal entity; every member is an autonomous ISP with the same name;</li>
 	<li>«Medium» access points may be open (not password protected by default), but hidden: person without knowing the network name will not be able to connect to it;</li>
