@@ -52,4 +52,4 @@ Set your <a href="https://github.com/medium-isp/medium/blob/master/README.en.md#
 
 If you are an operator of an active «Medium» access point already, then don't forget to <a href="https://github.com/medium-isp/medium/pulls">issue a PR</a> to add your point to the public list of all the access points. <a href="https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md">Here</a> you can find useful info about how to issue a PR.
 
-<a href="https://github.com/medium-isp/medium/blob/master/README.en.md">AP setup guide</a> • <a href="https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md">Add your AP to the list</a>
+<a href="https://github.com/medium-isp/medium/blob/master/README.en.md">AP setup guide</a> • <a href="https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md">Add your AP to the public list</a>
