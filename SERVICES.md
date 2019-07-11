@@ -1,7 +1,7 @@
 # Services
 
 | Name   	| Description                 	| Address                      	| Base32 Address 	| Availability 	|
-|--------	|:-----------------------------:|------------------------------	|:---------------:|:-------------:|
+|:-------:|:-----------------------------:|:-----------------------------:|:---------------:|:-------------:|
 | Medium 	| Main page                   	| medium.i2p                   	| -              	| -            	|
 | Mail   	| Webmail service             	| mail.medium.i2p              	| -              	| -            	|
 | Chat   	| Chat platform               	| chat.medium.i2p              	| -              	| -            	|
