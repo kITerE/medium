@@ -1,7 +1,7 @@
 # Services
 
 | Name   	| Description                 	| Address                      	| Base32 Address 	| Availability 	|
-|:-------:|:-----------------------------:|:-----------------------------:|:---------------:|:-------------:|
+|:-------:|----------------------------- |:-----------------------------:|:---------------:|:-------------:|
 | Main 	| Main page                   	| [medium.i2p](http://medium.i2p/?i2paddresshelper=dLJzgrK601vSbtNZGQ~R8V0ruRsdeG35gaIdH0RkXzoFioASVww8YociZfrgLsnHmKmMfA46fFv6goHkWYLMcWCDqoNc1X1bUzJwNxGHDcJJ1svKCuMGJDm5Ve~UMkdqEWofeT4tc4F14dJE48ff10jM4Y3Zc1tJCBuXKwtwa~mAdSacDlowXABP3kQ76kpMqQZ6dAithyAi53u-USvTmpK0Lc4uvZsWQL32m~qGMEiNrrlAhHZY2ttPbPUq8ig1bhEoBkN9CEYDdEgH3mw9CNmIhUrQThD9Hp~Wlsvd1x0815U-DDPqQvbwj2KgVRRt4z0uvZ-Ol0gpJwSgXfovVmuGj-PjbzFlfe-oGB-hQWEM~rTvIGdoS09nyWZtzzEQMnOwxv72fEM7HVQbMzSQ3B2UMHDWcXaY~lmQNnXcvNPMZiWA9Qt0ogUdWzDMyz1OvK5hsUPOLEYJMQ7GS272Mx3E6fqGct2EJ20IDIY8MfMVvCzYOK58lvTqeEsAz-fRBQAEAAcAAA==)                   	| [Click here](http://mediumsqsqgxwwhioefin4qu2wql4nybk5fff7tgwbg2f6bgkboa.b32.i2p)              	| ![](https://img.shields.io/badge/status-available-success.svg)            	|
 | Mail   	| Webmail service             	| mail.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | Chat   	| Chat platform               	| chat.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
