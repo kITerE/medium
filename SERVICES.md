@@ -16,5 +16,6 @@
 | List   	| I2P subscriptions service   	| list.medium.i2p              	| -              	| -            	|
 | Ping   	| Medium services status page 	| ping.medium.i2p              	| -              	| -            	|
 | Host   	| Eepsites hosting            	| host.medium.i2p              	| -              	| -            	|
+| Link   	| Short links service          	| link.medium.i2p              	| -              	| -            	|
 | Exit   	| Outproxy                    	| exit.medium.i2p              	| -              	| -            	|
 | Check  	| Connectivity check          	| connectivitycheck.medium.i2p 	| -              	| -            	|
