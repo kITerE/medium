@@ -13,7 +13,7 @@
 | Code   	| Code sharing                	| code.medium.i2p              	| -              	| -            	|
 | Help   	| Help service                	| help.medium.i2p              	| -              	| -            	|
 | Wiki   	| Wiki service                	| wiki.medium.i2p              	| -              	| -            	|
-| List   	| I2P subscriptions service   	| list.medium.i2p              	| -              	|              	|
+| List   	| I2P subscriptions service   	| list.medium.i2p              	| -              	| -            	|
 | Ping   	| Medium services status page 	| ping.medium.i2p              	| -              	| -            	|
 | Host   	| Eepsites hosting            	| host.medium.i2p              	| -              	| -            	|
 | Exit   	| Outproxy                    	| exit.medium.i2p              	| -              	| -            	|
