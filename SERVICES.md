@@ -10,7 +10,6 @@
 | Find   	| Search engine               	| find.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | Disk   	| File sharing                	| disk.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | Pics   	| Image sharing               	| pics.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
-| Code   	| Code sharing                	| code.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | Help   	| Help service                	| help.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | Wiki   	| Wiki service                	| wiki.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
 | List   	| I2P subscriptions service   	| list.medium.i2p              	| -              	| ![](https://img.shields.io/badge/status-pending-inactive.svg)            	|
