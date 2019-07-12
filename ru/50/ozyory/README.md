@@ -2,4 +2,4 @@
 
 | Номер узла | Доступность | Широта  | Долгота | URL |
 |:----------:|:-----------:|:-------:|:-------:|:---:|
-| 1         | ![](https://img.shields.io/badge/статус-обновляется-inactive.svg)   | 54.860651 | 38.536462 | [Google Maps](https://www.google.com/maps/place/54°51'38.3"N+38°32'11.3"E)
+| 1         | ![](https://img.shields.io/badge/обновляется-inactive.svg)   | 54.860651 | 38.536462 | [Google Maps](https://www.google.com/maps/place/54°51'38.3"N+38°32'11.3"E)
