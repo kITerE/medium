@@ -7,7 +7,7 @@
 <h2>What is «Medium»?</h2>
 The «Medium» project was initially thought of as a <a href="https://en.wikipedia.org/wiki/Mesh_networking">Mesh-network</a> in the <a href="https://en.wikipedia.org/wiki/Kolomna">Kolomna city</a>, however after some time it became obvious that there just aren't enough people to turn this concept into a real thing.
 
-
+<br>
 For this reason, after some time «Medium» became an independent and free I2P service provider — enthusiasts set up their own access points in a way that after connecting to them it would be able to use I2P resources.
 
 From a security point of view this method has some fundamental downsides — for example, it is possible to freely sniff the traffic between the user and the router that he is connected to at the moment. It's worth mentioning that <a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">Tor</a> has a similar problem — but in Tor's case, it's the <a href="https://hackertarget.com/tor-exit-node-visualization/">exit nodes</a>.
