@@ -30,7 +30,6 @@ We believe that privacy is one of those basic things necessary for quiet and pea
 We believe that every person has the right for privacy and integrity of his personal data.
 <br><br>
 We believe that «Medium» will be able to help I2P network grow up — with each «Medium» access point a new transit node appears.
-<br><br>
 <h2>How is «Medium» built?</h2>
 The essence of decentralized «Medium» ISP is to give the end user possibility of using I2P network resources without directly paying for internet traffic.
 <br><br>
@@ -41,12 +40,10 @@ In beginning of the project special attention was focused on users' possibility 
 And also on the ease of user's connection to the network: Wi-Fi connection availability isn't anything supernatural for an ordinary user now.
 <br><br>
 What do we have at this point: volunteers (system operators) with «Medium» access points under their control, and the users who use the network resources. I2P only uses a small part of the general channel's bandwidth, so the system operators shouldn't have problems with having 5-10 users connected.
-<br><br>
 <h2>From where can be «Medium» accessed?</h2>
 On current state of development «Medium» has several access points in <a href="https://github.com/medium-isp/medium/tree/master/ru/50/kolomna">Kolomna</a>, <a href="https://github.com/medium-isp/medium/tree/master/ru/50/ozyory">Ozyory</a>, <a href="https://github.com/medium-isp/medium/tree/master/ru/72/tyumen">Tyumen</a>, <a href="https://github.com/medium-isp/medium/tree/master/ru/63/samara">Samara</a>, <a href="https://github.com/medium-isp/medium/tree/master/ru/86/hanty-mansiysk">Hanty-Mansiysk</a>, and one in <a href="https://github.com/medium-isp/medium/tree/master/lv/01/riga">Riga</a>.
 <br><br>
 We hope for community's active contribution to the growth of «Medium» — the instructions for setting up your authentic point can be found <a href="https://github.com/medium-isp/medium/blob/master/README.en.md#%D1%8F--%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80">here</a>. You can also issue a pull request for adding your access point in the public list of all the network points.
-
 <h2>I want to volunteer! What do I have to do?</h2>
 Set your <a href="https://github.com/medium-isp/medium/blob/master/README.en.md#%D1%8F--%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80">access point</a> up and join the <a href="https://github.com/medium-isp/medium/issues/1">project discussion</a>. In this branch, the most significant nuances of «Medium»'s long-term development are discussed.
 <br><br>
