@@ -1,4 +1,4 @@
-<img align="left" src="https://i.imgur.com/RkjJPEr.png" width="100px">
+<img align="left" src="https://i.imgur.com/jwwzAxj.png" width="100px">
 <br/><br/><br/><br/>
 
 FAI décentralisé indépendant pour nos amis
