@@ -28,3 +28,7 @@
 
 # Пользовательские сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium/issues/new)
+
+| Название     	| Описание                    	| Адрес                       	| Base32 	      | Доступность 	| SSL | CA |
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:---:|:--:|
+| Помойка 	| -            | [medium.i2p](http://pomoyka.medium.i2p/?i2paddresshelper=b-gzL2qVPRrZnIicIwjqNOKsqkXLvj0Rr4cLN7oBuJmo44kI2Ig25zRcF6dABPk1Zoy25cRO8xEKWlHmey3J4bo9~Nzw8uX9wA8Y4Xq6Gpu17dozHvZIvTyrzx~gw585-YE~6bjtBcDD7gcfLwVUlwOCefEf7VJ0FUJaGjy95PhnrREzCCc3uOray3zJXmt13N2L~i401Xuk6EbjV5bFxUdbRLahe6T5sP6q2p7fo~863-NxP-3mxwWTfkt7rFKEJv17CNR8Z7PH4cIsyC8fi3g0nWa80zfrX1h3sEpH-97LO4sO8h3CY3-Cne0wTTblmc7z9amuSpFo9geap8DM-MKoC0iAsZbfV1BPcOUFTFwMI43FxB5Bl7mv4pzYaHgd6sRwii3DUr8uiHZ6r-TdptN6MZNvD5QrOEJ6RD2xiyjkFNG5Ci05uB7Zb1oaCSqhR5-CWjf8quyxrwAsJXc~mhoYanG6WrIsaWbWWrPDJMlBGbMXMhCUGxQCZpWIzYMOBQAEAAEAAA==)                   	| [Ссылка](http://rf7zsxavqgimrqt47nhm5d6xyr4n7scx3l6itwrhojxjfhup3rza.b32.i2p)              	| ![](https://img.shields.io/badge/недоступен-red.svg)            	| ✓ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
