@@ -4,7 +4,7 @@
 Independent decentralized ISP for our friends
 
 ## I am a user
-To connect to the already existing Medium node, you need to [select your city](https://github.com/medium-isp/medium/tree/master/ru) and find the operator nearest you.
+To connect to the already existing Medium node, you need to [select your city](https://github.com/medium-isp/medium/tree/master/index/ru) and find the operator nearest you.
 
 To connect, you need to create a new connection with the following parameters: SSID - «Medium» (without quotes), authentication type — without password.
 

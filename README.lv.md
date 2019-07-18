@@ -4,7 +4,7 @@
 Neatkarīgs decentralizēts ISP mūsu draugiem
 
 ## Es esmu lietotājs
-Lai izveidotu savienojumu ar jau esošo Medium mezglu, jums ir jāizvēlas [jūsu pilsēta](https://github.com/medium-isp/medium/tree/master/ru) un atrodiet tuvāko operatoru.
+Lai izveidotu savienojumu ar jau esošo Medium mezglu, jums ir jāizvēlas [jūsu pilsēta](https://github.com/medium-isp/medium/tree/master/index/ru) un atrodiet tuvāko operatoru.
 
 Lai izveidotu savienojumu, jums jāizveido jauns savienojums ar šādiem parametriem: SSID - «Medium» (bez pēdiņām), autentifikācijas veids - bez paroles.
 
