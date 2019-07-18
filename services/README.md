@@ -27,7 +27,7 @@
 | CA 	| Центр сертификации            | [Ссылка](http://secure.medium.i2p/?i2paddresshelper=V4aaivFe5qs4B67h3zJga-E1kUHQ-bTCQKOh0xYhXzTDf2lAYCrzTrRKSevKQgtctIiPyOOIgIpvo6DTVVSTn7uOEQNRBhUUOhsOIYh-RzhVJf4rgmjmqFYqUKnoULeJxgArr~S~c75VtFrTgpoUUay9U-5fSrw6R36n-ytXiqG~sPDll4UyJHiZjTAlrzh3xRzpFFm~YWdkU9MwigPM4yEX6Wa5iydutdKHO9my4T-7T9i60oBGJFASzawdAmRr7sndZpizkvyrFVFJLQPPAQEpuFyv46UEfsTA3H2SEkY0UduV1jR5-35s97L4Z9sDx7LjNUkQRyeDnqJiVydXp9i2f38Ha~mzPBP40Pednw~Sc7aMPsvACZjIAVN45lqA2PI6wX8XekQyYdvrydynQ2HnsYOMpNT9z6tVel6HoOYwGznZhKGSDqtdRxBTI-8n13t4ilZ9ZeCUkAC38f8eSevdG5Tr6NXSmeIAVEMQJUmsU6eR6gV1kf5QmzOYN6aFBQAEAAcAAA==)                   	| [Ссылка](http://secure3sglrjnsvvmlyqyinikb2pl52sjtcuw426ulalykzqwqfq.b32.i2p)              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✓ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
 
 # Пользовательские сервисы
-[Сообщить о недоступности сервиса](https://github.com/medium-isp/medium/issues/new)
+Информация о доступности пользовательских сервисов обновляется в автоматическом режиме.
 
 | Название     	| Описание                    	| Адрес                       	| Base32 	      | Доступность 	| SSL | CA |
 |-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:---:|:--:|
