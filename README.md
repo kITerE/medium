@@ -2,7 +2,7 @@
 <img align="left" src="https://i.imgur.com/jwwzAxj.png" width="100px">
 <br/><br/><br/><br/>
 
-[README in English](README.en.md) • [README на русском](README.ru.md) • [README en français](README.fr.md) • [README latviešu valodā](README.lv.md)
+[README in English](README.en.md) • [README на русском](README.ru.md)
 
 <h2>What is «Medium»?</h2>
 The «Medium» project was initially thought of as a <a href="https://en.wikipedia.org/wiki/Mesh_networking">Mesh-network</a> in the <a href="https://en.wikipedia.org/wiki/Kolomna">Kolomna city</a>, however after some time it became obvious that there just aren't enough people to turn this concept into a real thing.
