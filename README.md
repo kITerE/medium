@@ -32,8 +32,6 @@ The essence of decentralized «Medium» ISP is to give the end user possibility 
 The concept of «Medium» ISP is prosaic enough — many interested people set up their wireless points with access to Yggdrasil network without direct internet connection possibility by default (outproxy usage isn't forbidden, but isn't welcome too: «Medium» must contribute to the growth of transit nodes and sites in Yggdrasil network). Infrastructure deployment is free of charge — it's all pure enthusiasm.
 <br><br>
 And also on the ease of user's connection to the network: Wi-Fi connection availability isn't anything supernatural for an ordinary user now.
-<br><br>
-What do we have at this point: volunteers (system operators) with «Medium» access points under their control, and the users who use the network resources. Yggdrasil only uses a small part of the general channel's bandwidth, so the system operators shouldn't have problems with having 5-10 users connected.
 <h2>From where can be «Medium» accessed?</h2>
 On current state of development «Medium» has several access points in <a href="https://github.com/medium-isp/medium/tree/master/index/ru/50/kolomna">Kolomna</a>, <a href="https://github.com/medium-isp/medium/tree/master/index/ru/50/ozyory">Ozyory</a>, <a href="https://github.com/medium-isp/medium/tree/master/index/ru/72/tyumen">Tyumen</a>, <a href="https://github.com/medium-isp/medium/tree/master/index/ru/63/samara">Samara</a>, <a href="https://github.com/medium-isp/medium/tree/master/index/ru/86/hanty-mansiysk">Hanty-Mansiysk</a>, and one in <a href="https://github.com/medium-isp/medium/tree/master/index/lv/01/riga">Riga</a>.
 <br><br>
