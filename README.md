@@ -11,7 +11,7 @@ For this reason, after some time «Medium» became an independent and free Yggdr
 <br><br>
 From a security point of view this method has some fundamental downsides — for example, it is possible to freely sniff the traffic between the user and the router that he is connected to at the moment. It's worth mentioning that <a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">Tor</a> has a similar problem — but in Tor's case, it's the <a href="https://hackertarget.com/tor-exit-node-visualization/">exit nodes</a>.
 <br><br>
-This problem can be handled using <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">TLS</a>, <a href="https://en.wikipedia.org/wiki/Secure_Sockets_Layer">SSL</a>, <a href="https://en.wikipedia.org/wiki/HTTPS">HTTPS</a> <a href="https://en.wikipedia.org/wiki/Cryptographic_protocol">etc.</a> — that's enough to feel confident about using the network's resources. And, of course, let's not forget <a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">PGP</a> and asymmetric cryptography when exchanging messages.
+This problem can be handled using <a href="https://yggdrasil-network.github.io/faq.html">Yggdrasil end-to-end encryption</a> — that's enough to feel confident about using the network's resources. And, of course, let's not forget <a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">PGP</a> and asymmetric cryptography when exchanging messages.
 <br><br>
 From legal point of view (in accordance with <a href="www.consultant.ru/document/cons_doc_LAW_162586/">Federal law № 97-FZ from May 5, 2014</a>), «Medium», located on territory of Russian Federation, may partially get under restrictions imposed by law. But keep following nuances in mind:
 <br><br>
