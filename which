@@ -1,0 +1,13 @@
+cat index/ru/72/tyumen/README.md | grep -r https | grep -r medium
+cat index/ru/63/samara/README.md | grep -r https | grep -r medium
+cat index/ru/86/hanty-mansiysk/README.md | grep -r https | grep -r medium
+cat index/ru/50/ozyory/README.md | grep -r https | grep -r medium
+cat index/ru/50/kolomna/README.md | grep -r https | grep -r medium
+cat index/lv/01/riga/README.md | grep -r https | grep -r medium
+cat .github/FUNDING.yml | grep -r https | grep -r medium
+cat README.md | grep -r https | grep -r medium
+cat CODE_OF_CONDUCT.md | grep -r https | grep -r medium
+cat CONTRIBUTING.md | grep -r https | grep -r medium
+cat README.ru.md | grep -r https | grep -r medium
+cat README.en.md | grep -r https | grep -r medium
+

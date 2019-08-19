@@ -10,7 +10,7 @@ To connect, you need to create a new connection with the following parameters: S
 
 Be careful: the Medium network by default is hidden from prying eyes; in the list of available networks, it will not be displayed until you create a new connection with the above parameters.
 
-To test the network, try visiting the [medium.isp](https://medium.isp/) page after connecting.
+To test the network, try visiting the [medium.isp](http://medium.isp/) page after connecting.
 
 ## I am an operator
 To raise your Medium network node, you need the following things:
