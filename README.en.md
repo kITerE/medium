@@ -30,4 +30,4 @@ Pay special attention to the fact that for authenticity the network should have 
 Depending on the model of your router, deny any traffic that somehow relates to the external Internet.
 
 ### Step 4. Adding a point to the public list
-After completing the configuration of your access point and testing its operation, you can add it to [public list](https://github.com/medium-isp/medium/blob/master/CONTRIBUTING.md).
+After completing the configuration of your access point and testing its operation, you can add it to [public list](https://github.com/medium-isp/public-peers/blob/master/CONTRIBUTING.md).
